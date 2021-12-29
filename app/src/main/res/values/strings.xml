@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GestionDesNotes</string>
+
+    <string-array name="Modules">
+
+        <item>Maths</item>
+        <item>Informatiques</item>
+        <item>Chimie</item>
+        <item>Hestorique</item>
+        <item>Sciences</item>
+        <item>Physique</item>
+
+    </string-array>
+</resources>
+
